@@ -1,0 +1,1793 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en-GB"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="en-GB">
+        <seg>(After the French International Jr.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T180117Z" creationid="PCM" creationdate="20231023T180117Z">
+        <seg>(Po odwołaniu Międzynarodowego Turnieju Młodzieży</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>(Let our dreams be the wind beneath your wings\nas you take flight to take on the world,\nTsubasa!)</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T181022Z" creationid="PCM" creationdate="20231023T181022Z">
+        <seg>(Niech nasze sny będą wiatrem pod twoimi skrzydłami,\n gdy wzbijesz się w powietrze, by podbić świat,\nTsubasa)!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>(Now fly, Tsubasa.)</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T180923Z" creationid="PCM" creationdate="20231023T180923Z">
+        <seg>(Teraz leć, Tsubasa).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>(Page 52...)</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T184645Z" creationid="PCM" creationdate="20231023T184645Z">
+        <seg>(Strona 52...)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>(Page 52...?)</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T184651Z" creationid="PCM" creationdate="20231023T184651Z">
+        <seg>(Strona 52...?)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>(The time has finally come.)</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T180551Z" creationid="PCM" creationdate="20231023T180551Z">
+        <seg>(W końcu nadszedł ten czas).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>(This is somewhat unexpected, but by this\nfortuitous turn of events, these boys will now\nshine on an even grander stage.)</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T180520Z" creationid="PCM" creationdate="20231023T180520Z">
+        <seg>(Jest to nieco nieoczekiwane, ale przez ten\nniefortunny obrót wydarzeń, ci chłopcy będą\nteraz błyszczeć na jeszcze większej scenie).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;cancel&gt;Back</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231022T192134Z" creationid="PCM" creationdate="20231022T192134Z">
+        <seg>&lt;cancel&gt;Cofnij</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;cancel&gt;Back &lt;rep ③&gt;Restore Defaults &lt;rep ⑰&gt;Change Settings</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231022T205841Z" creationid="PCM" creationdate="20231022T205841Z">
+        <seg>&lt;cancel&gt;Cofnij &lt;rep ③&gt;Restore Defaults &lt;rep ⑰&gt;Change Settings</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;cancel&gt;Back &lt;rep ⑯&gt;Select</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231022T192103Z" creationid="PCM" creationdate="20231022T192020Z">
+        <seg>&lt;cancel&gt;Cofnij &lt;rep ⑯&gt;Select</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;cancel&gt;Exit</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231022T191953Z" creationid="PCM" creationdate="20231022T191953Z">
+        <seg>&lt;cancel&gt;Wyjście</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;decide&gt;/&lt;cancel&gt;Back &lt;rep ⑯&gt;Scroll</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231022T205814Z" creationid="PCM" creationdate="20231022T205814Z">
+        <seg>&lt;decide&gt;/&lt;cancel&gt;Cofnij &lt;rep ⑯&gt;Scroll</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;decide&gt;/&lt;cancel&gt;Back &lt;rep ⑰&gt;Select</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231022T205809Z" creationid="PCM" creationdate="20231022T205809Z">
+        <seg>&lt;decide&gt;/&lt;cancel&gt;Cofnij &lt;rep ⑰&gt;Select</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;decide&gt;Claim All Rewards &lt;cancel&gt;Back &lt;rep ⑤&gt;/&lt;rep ⑥&gt;Change Category</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231022T205824Z" creationid="PCM" creationdate="20231022T205824Z">
+        <seg>&lt;decide&gt;Claim All Rewards &lt;cancel&gt;Cofnij &lt;rep ⑤&gt;/&lt;rep ⑥&gt;Change Category</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;decide&gt;Confirm</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231022T192223Z" creationid="PCM" creationdate="20231022T192223Z">
+        <seg>&lt;decide&gt;Potwierdź</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;decide&gt;Confirm &lt;cancel&gt;Back</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231022T205602Z" creationid="PCM" creationdate="20231022T205602Z">
+        <seg>&lt;decide&gt;Potwierdź &lt;cancel&gt;Cofnij</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;decide&gt;Confirm &lt;cancel&gt;Back &lt;rep other_touch&gt;Show Game Guide &lt;rep ⑤&gt;/&lt;rep ⑥&gt;Change Category</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231022T205901Z" creationid="PCM" creationdate="20231022T205901Z">
+        <seg>&lt;decide&gt;Confirm &lt;cancel&gt;Cofnij &lt;rep other_touch&gt;Show Game Guide &lt;rep ⑤&gt;/&lt;rep ⑥&gt;Change Category</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;decide&gt;Confirm &lt;cancel&gt;Back &lt;rep ③&gt;Claim Login Bonus &lt;rep ⑯&gt;Select</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231022T205828Z" creationid="PCM" creationdate="20231022T205828Z">
+        <seg>&lt;decide&gt;Confirm &lt;cancel&gt;Cofnij &lt;rep ③&gt;Claim Login Bonus &lt;rep ⑯&gt;Select</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;decide&gt;Confirm &lt;cancel&gt;Back &lt;rep ③&gt;Show Event Reward &lt;rep ⑰&gt;Select</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231022T205850Z" creationid="PCM" creationdate="20231022T205850Z">
+        <seg>&lt;decide&gt;Confirm &lt;cancel&gt;Cofnij &lt;rep ③&gt;Show Event Reward &lt;rep ⑰&gt;Select</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;decide&gt;Confirm &lt;cancel&gt;Back &lt;rep ③&gt;Switch Team &lt;rep ⑤&gt;/&lt;rep ⑥&gt;Change Page &lt;rep ⑰&gt;Skip Displayed Item &lt;rep ⑯&gt;Select</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231022T210010Z" creationid="PCM" creationdate="20231022T210010Z">
+        <seg>&lt;decide&gt;Confirm &lt;cancel&gt;Cofnij &lt;rep ③&gt;Switch Team &lt;rep ⑤&gt;/&lt;rep ⑥&gt;Change Page &lt;rep ⑰&gt;Skip Displayed Item &lt;rep ⑯&gt;Select</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;decide&gt;Confirm &lt;cancel&gt;Back &lt;rep ③&gt;Switch Team &lt;rep ⑰&gt;Skip Displayed Item &lt;rep ⑯&gt;Select</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231022T205917Z" creationid="PCM" creationdate="20231022T205917Z">
+        <seg>&lt;decide&gt;Confirm &lt;cancel&gt;Cofnij &lt;rep ③&gt;Switch Team &lt;rep ⑰&gt;Skip Displayed Item &lt;rep ⑯&gt;Select</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;decide&gt;Confirm &lt;cancel&gt;Back &lt;rep ④&gt;Check Set Item &lt;rep ⑰&gt;/&lt;rep ⑯&gt;Select</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231022T205820Z" creationid="PCM" creationdate="20231022T205820Z">
+        <seg>&lt;decide&gt;Confirm &lt;cancel&gt;Cofnij &lt;rep ④&gt;Check Set Item &lt;rep ⑰&gt;/&lt;rep ⑯&gt;Select</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;decide&gt;Confirm &lt;cancel&gt;Back &lt;rep ④&gt;Show Unlock Conditions &lt;rep ⑰&gt;/&lt;rep ⑯&gt;Select</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231022T205836Z" creationid="PCM" creationdate="20231022T205836Z">
+        <seg>&lt;decide&gt;Confirm &lt;cancel&gt;Cofnij &lt;rep ④&gt;Show Unlock Conditions &lt;rep ⑰&gt;/&lt;rep ⑯&gt;Select</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;decide&gt;Confirm &lt;cancel&gt;Back &lt;rep ⑤&gt;/&lt;rep ⑥&gt;Change Category</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231022T205853Z" creationid="PCM" creationdate="20231022T205853Z">
+        <seg>&lt;decide&gt;Confirm &lt;cancel&gt;Cofnij &lt;rep ⑤&gt;/&lt;rep ⑥&gt;Change Category</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;decide&gt;Confirm &lt;cancel&gt;Back &lt;rep ⑤&gt;/&lt;rep ⑥&gt;Change Category &lt;rep ③&gt;Adjust Position &lt;rep ④&gt;Move Settings</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231022T205535Z" creationid="PCM" creationdate="20231022T205535Z">
+        <seg>&lt;decide&gt;Potwierdź &lt;cancel&gt;Back &lt;rep ⑤&gt;/&lt;rep ⑥&gt;Change Category &lt;rep ③&gt;Adjust Position &lt;rep ④&gt;Move Settings</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;decide&gt;Confirm &lt;cancel&gt;Back &lt;rep ⑤&gt;/&lt;rep ⑥&gt;Change Category &lt;rep ⑰&gt;/&lt;rep ⑯&gt;Select</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231022T205831Z" creationid="PCM" creationdate="20231022T205831Z">
+        <seg>&lt;decide&gt;Confirm &lt;cancel&gt;Cofnij &lt;rep ⑤&gt;/&lt;rep ⑥&gt;Change Category &lt;rep ⑰&gt;/&lt;rep ⑯&gt;Select</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;decide&gt;Confirm &lt;cancel&gt;Back &lt;rep ⑳&gt;Rotate &lt;rep ⑰&gt;Change Page &lt;rep ⑯&gt;Select</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231022T205846Z" creationid="PCM" creationdate="20231022T205846Z">
+        <seg>&lt;decide&gt;Confirm &lt;cancel&gt;Cofnij &lt;rep ⑳&gt;Rotate &lt;rep ⑰&gt;Change Page &lt;rep ⑯&gt;Select</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;decide&gt;Confirm &lt;rep ③&gt;Set Language</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231022T205552Z" creationid="PCM" creationdate="20231022T205552Z">
+        <seg>&lt;decide&gt;Potwierdź &lt;rep ③&gt;Wybierz język</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;decide&gt;Confirm/Cancel &lt;cancel&gt;Back &lt;rep ③&gt;Group Info &lt;rep ⑯&gt;Select</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231022T192117Z" creationid="PCM" creationdate="20231022T192057Z">
+        <seg>&lt;decide&gt;Potwierdź/Anuluj &lt;cancel&gt;Cofnij &lt;rep ③&gt;Group Info &lt;rep ⑯&gt;Select</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;decide&gt;Next</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231022T192126Z" creationid="PCM" creationdate="20231022T192126Z">
+        <seg>&lt;decide&gt;Dalej</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;decide&gt;Show Player Data &lt;cancel&gt;Back &lt;rep other_touch&gt;Show Game Guide &lt;scale 120%&gt;&lt;rep ⑪&gt;&lt;/scale&gt;Exit Without Registering Player &lt;rep ⑯&gt;Select</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231022T205912Z" creationid="PCM" creationdate="20231022T205912Z">
+        <seg>&lt;decide&gt;Show Player Data &lt;cancel&gt;Cofnij &lt;rep other_touch&gt;Show Game Guide &lt;scale 120%&gt;&lt;rep ⑪&gt;&lt;/scale&gt;Exit Without Registering Player &lt;rep ⑯&gt;Select</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;decide&gt;Show Player Data &lt;cancel&gt;Back &lt;rep other_touch&gt;Show Game Guide &lt;scale 120%&gt;&lt;rep ⑪&gt;&lt;/scale&gt;Finish Player Registration &lt;rep ⑯&gt;Select</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231022T205906Z" creationid="PCM" creationdate="20231022T205906Z">
+        <seg>&lt;decide&gt;Show Player Data &lt;cancel&gt;Cofnij &lt;rep other_touch&gt;Show Game Guide &lt;scale 120%&gt;&lt;rep ⑪&gt;&lt;/scale&gt;Finish Player Registration &lt;rep ⑯&gt;Select</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;rep other_touch&gt;Show Game Guide\n&lt;rep ⑦&gt;Skip Tutorial</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T200527Z" creationid="PCM" creationdate="20231023T200527Z">
+        <seg>&lt;rep other_touch&gt;Pokaż przewodnik po grze\n&lt;rep ⑦&gt;Pomiń samouczek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;rep ⑭&gt;Next</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231022T192002Z" creationid="PCM" creationdate="20231022T192002Z">
+        <seg>&lt;rep ⑭&gt;Dalej</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;rep ⑮&gt;Back &lt;cancel&gt;Exit</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231022T192151Z" creationid="PCM" creationdate="20231022T192151Z">
+        <seg>&lt;rep ⑮&gt;Cofnij &lt;cancel&gt;Wyjście</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>A new breed of champion!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T175842Z" creationid="PCM" creationdate="20231023T175842Z">
+        <seg>Nowy rodzaj mistrza!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>ACTION</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T184824Z" creationid="PCM" creationdate="20231023T184824Z">
+        <seg>AKCJA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>And across the field, led by the young emperor\nKarl Heinz Schneider,\nthe German Jr.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T180913Z" creationid="PCM" creationdate="20231023T180913Z">
+        <seg>A po drugiej stronie pola, prowadzony przez młodego cesarza\nKarla Heinza Schneidera,\n niemiecki Jr.!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>And finally, the player chosen by\nthe Player Development Program\nput together just for this tournament!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T175822Z" creationid="PCM" creationdate="20231023T175822Z">
+        <seg>I wreszcie, zawodnik wybrany przez\nProgram Rozwoju Zawodników,\nprzygotowany specjalnie na ten turniej!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Are ya ready?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T172940Z" creationid="PCM" creationdate="20231023T172940Z">
+        <seg>Jesteś gotowy?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>As his physician I can require him to stay here\nand rest.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231111T224439Z" creationid="PCM" creationdate="20231111T224439Z">
+        <seg>Jako jego lekarz mogę wymagać, by tu został i odpoczywał.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>At eleven, his move to the city of Nankatsu\nwould be the catalyst\nfor two fateful encounters.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T170955Z" creationid="PCM" creationdate="20231023T170955Z">
+        <seg>W wieku jedenastu lat jego przeprowadzka do miasta Nankatsu\nstała się katalizatorem\ndwóch pamiętnych spotkań.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>BACK</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231022T192207Z" creationid="PCM" creationdate="20231022T192207Z">
+        <seg>COFNIJ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Background: Azumaichi MS\n \nWallpapers you can use on the\nmenu screen.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231022T210048Z" creationid="PCM" creationdate="20231022T210048Z">
+        <seg>Tło: Azumaichi MS\n \nWallpapers you can use on the\nmenu screen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Background: Furano MS\n \nWallpapers you can use on the\nmenu screen.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231022T210035Z" creationid="PCM" creationdate="20231022T210035Z">
+        <seg>Tło: Furano MS\n \nWallpapers you can use on the\nmenu screen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Background: Hanawa MS\n \nWallpapers you can use on the\nmenu screen.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231022T210045Z" creationid="PCM" creationdate="20231022T210045Z">
+        <seg>Tło: Hanawa MS\n \nWallpapers you can use on the\nmenu screen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Background: Hirado MS\n \nWallpapers you can use on the\nmenu screen.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231022T210042Z" creationid="PCM" creationdate="20231022T210042Z">
+        <seg>Tło: Hirado MS\n \nWallpapers you can use on the\nmenu screen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Background: Meiwa Higashi MS\n \nWallpapers you can use on the\nmenu screen.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231022T210053Z" creationid="PCM" creationdate="20231022T210053Z">
+        <seg>Tło: Meiwa Higashi MS\n \nWallpapers you can use on the\nmenu screen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Background: Minamiuwa MS\n \nWallpapers you can use on the\nmenu screen.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231022T210057Z" creationid="PCM" creationdate="20231022T210057Z">
+        <seg>Tło: Minamiuwa MS\n \nWallpapers you can use on the\nmenu screen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Background: Musashi MS\n \nWallpapers you can use on the\nmenu screen.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231022T210039Z" creationid="PCM" creationdate="20231022T210039Z">
+        <seg>Tło: Musashi MS\n \nWallpapers you can use on the\nmenu screen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Background: Nankatsu MS\n \nWallpapers you can use on the\nmenu screen.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231022T210022Z" creationid="PCM" creationdate="20231022T210022Z">
+        <seg>Tło: Nankatsu MS\n \nWallpapers you can use on the\nmenu screen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Background: Otomo MS\n \nWallpapers you can use on the\nmenu screen.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231022T210050Z" creationid="PCM" creationdate="20231022T210050Z">
+        <seg>Tło: Otomo MS\n \nWallpapers you can use on the\nmenu screen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Background: Toho Academy\n \nWallpapers you can use on the\nmenu screen.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231022T210032Z" creationid="PCM" creationdate="20231022T210032Z">
+        <seg>Tło: Toho Academy\n \nWallpapers you can use on the\nmenu screen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Blocking Tutorials</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231027T095208Z" creationid="PCM" creationdate="20231027T095208Z">
+        <seg>Samouczki blokowania</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Both teams' players are now taking the field!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T174728Z" creationid="PCM" creationdate="20231023T174728Z">
+        <seg>Zawodnicy obu drużyn wychodzą na boisko!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>But before I decide anything, what did Tsubasa\nsay?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231111T224553Z" creationid="PCM" creationdate="20231111T224553Z">
+        <seg>Ale zanim cokolwiek zdecyduję, co\n powiedział Tsubasa?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>But if he plays hurt, and his injuries proceed to\nworsen...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231111T224003Z" creationid="PCM" creationdate="20231111T223855Z">
+        <seg>Ale jeśli zagra kontuzjowany, a jego kontuzje\nbędą się pogarszać...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>But that's exactly why he needs to be thinking\nabout his future.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231111T223011Z" creationid="PCM" creationdate="20231111T223011Z">
+        <seg>Właśnie dlatego musi myśleć o swojej przyszłości.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>But--</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231111T224636Z" creationid="PCM" creationdate="20231111T224636Z">
+        <seg>Ale...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>C'mon, let's do this team!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T181052Z" creationid="PCM" creationdate="20231023T181052Z">
+        <seg>Dalej, zróbmy to!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>CHAPTER 1</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T213644Z" creationid="PCM" creationdate="20231023T213644Z">
+        <seg>ROZDZIAŁ 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>CHAPTER 2</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T213647Z" creationid="PCM" creationdate="20231023T213647Z">
+        <seg>ROZDZIAŁ 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>CHAPTER 3</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T213649Z" creationid="PCM" creationdate="20231023T213649Z">
+        <seg>ROZDZIAŁ 3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>CHAPTER 4</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T213653Z" creationid="PCM" creationdate="20231023T213653Z">
+        <seg>ROZDZIAŁ 4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>CHAPTER 5</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T213657Z" creationid="PCM" creationdate="20231023T213657Z">
+        <seg>ROZDZIAŁ 5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>CHAPTER 6</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T213700Z" creationid="PCM" creationdate="20231023T213700Z">
+        <seg>ROZDZIAŁ 6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>CHAPTER 7</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T213704Z" creationid="PCM" creationdate="20231023T213704Z">
+        <seg>ROZDZIAŁ 7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Can he assail their defense alone?!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T203021Z" creationid="PCM" creationdate="20231023T203021Z">
+        <seg>Czy sam zaatakuje ich obronę?!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Can they break the deadlock with fewer players?!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T202928Z" creationid="PCM" creationdate="20231023T202928Z">
+        <seg>Czy mogą przełamać impas z mniejszą liczbą graczy?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Can they hope to outpace those defenders?!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T202715Z" creationid="PCM" creationdate="20231023T202715Z">
+        <seg>Czy uda im się wyprzedzić tych obrońców?!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Can they leverage their man advantage?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T202638Z" creationid="PCM" creationdate="20231023T202638Z">
+        <seg>Czy potrafią wykorzystać przewagę liczebną?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Captain</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T183211Z" creationid="PCM" creationdate="20231023T183211Z">
+        <seg>Kapitan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Captain Tsubasa</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T172234Z" creationid="PCM" creationdate="20231023T172234Z">
+        <seg>Kapitan Tsubasa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Change formation?\nIf you have customized positions,\nconfigurations will be reset.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T183206Z" creationid="PCM" creationdate="20231023T183206Z">
+        <seg>Zmiana formacji?\nJeśli pozycje zostały dostosowane, konfiguracje zostaną zresetowane.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Check controls.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T183129Z" creationid="PCM" creationdate="20231023T183129Z">
+        <seg>Sprawdź elementy sterowania.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Choose one.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T183454Z" creationid="PCM" creationdate="20231023T183454Z">
+        <seg>Wybierz jedeną.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Compared to that potential future,\nthis tournament is small potatoes.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231111T223517Z" creationid="PCM" creationdate="20231111T223442Z">
+        <seg>W porównaniu z potencjalną\nprzyszłością, ten turniej to małe piwo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Configure match conditions.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T183102Z" creationid="PCM" creationdate="20231023T183102Z">
+        <seg>Skonfiguruj warunki dopasowania.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Configure the team.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T183048Z" creationid="PCM" creationdate="20231023T183048Z">
+        <seg>Skonfiguruj drużynę.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Cost</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T190043Z" creationid="PCM" creationdate="20231023T190043Z">
+        <seg>Koszt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>DEFENSE\n TUTORIALS</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231027T094959Z" creationid="PCM" creationdate="20231027T094939Z">
+        <seg>SAMOUCZKI\n OBRONY</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Dash Dribbling and \nDribble Moves can be used to slip past\nopponents.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T195937Z" creationid="PCM" creationdate="20231023T195937Z">
+        <seg>Dash Dribbling and \nDribble Moves mogą być używane do omijania\nprzeciwników.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Does this have to\ndo with Tsubasa?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231111T222734Z" creationid="PCM" creationdate="20231111T222734Z">
+        <seg>Czy to ma coś\nwspólnego z Tsubasą?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Dribbling Tutorials</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231027T095124Z" creationid="PCM" creationdate="20231027T095124Z">
+        <seg>Samouczki dryblingu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>EPISODE: TSUBASA</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T213616Z" creationid="PCM" creationdate="20231023T213616Z">
+        <seg>EPIZOD: TSUBASA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>EXIT</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231022T192310Z" creationid="PCM" creationdate="20231022T192310Z">
+        <seg>WYJŚCIE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Exit</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231022T192248Z" creationid="PCM" creationdate="20231022T192248Z">
+        <seg>Wyjście</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Exit the game?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231022T192330Z" creationid="PCM" creationdate="20231022T192330Z">
+        <seg>Wyjść z gry?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>FREE\n PRACTICE</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231027T095110Z" creationid="PCM" creationdate="20231027T095110Z">
+        <seg>WOLNA\n PRAKTYKA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Fighting alongside teammates and rivals alike,\nforging bonds while severing others...\nEvery experience became his strength.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T171918Z" creationid="PCM" creationdate="20231023T171918Z">
+        <seg>Walka z kolegami z drużyny i rywalami,\ntworzenie więzi i zrywanie innych...\nKażde doświadczenie stało się jego siłą.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Finally!\nThe game you've all been waiting for!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T182720Z" creationid="PCM" creationdate="20231023T173341Z">
+        <seg>Nareszcie!\nMecz, na którą wszyscy czekali!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Foul</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T183356Z" creationid="PCM" creationdate="20231023T183356Z">
+        <seg>Faul</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Free Kicker</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T183249Z" creationid="PCM" creationdate="20231023T183249Z">
+        <seg>Wolny strzelec</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>From what I hear, Tsubasa wants to\nmove to Brazil, and become a pro player.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231111T223107Z" creationid="PCM" creationdate="20231111T223107Z">
+        <seg>Z tego co słyszałem, Tsubasa chce przenieść\nsię do Brazylii i zostać zawodowym graczem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Goalkeeper Tutorials</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231027T095221Z" creationid="PCM" creationdate="20231027T095221Z">
+        <seg>Samouczki bramkarzy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Hah!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T173156Z" creationid="PCM" creationdate="20231023T173156Z">
+        <seg>Ha!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>He could easily become a pillar for the future of\nJapanese soccer, no question.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231111T222939Z" creationid="PCM" creationdate="20231111T222939Z">
+        <seg>Bez wątpienia może stać się filarem\nprzyszłości japońskiej piłki nożnej.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>He has faced down countless trials.\nAnd now...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T172216Z" creationid="PCM" creationdate="20231023T172110Z">
+        <seg>Stawił czoła niezliczonym próbom.\nA teraz...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>He took it right to the goal!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T202501Z" creationid="PCM" creationdate="20231023T202501Z">
+        <seg>Strzelił prosto do bramki!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>He's crossed the center line!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T202446Z" creationid="PCM" creationdate="20231023T202446Z">
+        <seg>Przekroczył środkową linię!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>He's going in alone!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T202953Z" creationid="PCM" creationdate="20231023T202953Z">
+        <seg>Biegnie sam!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>He's skillfully taken control of the ball!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T201006Z" creationid="PCM" creationdate="20231023T201006Z">
+        <seg>Umiejętnie przejął kontrolę nad piłką!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>He's worked so hard, and today's game means so\nmuch to him.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231111T224837Z" creationid="PCM" creationdate="20231111T224837Z">
+        <seg>Ciężko pracował, a dzisiejszy mecz wiele\ndla niego znaczy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>His name is Tsubasa Ozora.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T172227Z" creationid="PCM" creationdate="20231023T172227Z">
+        <seg>Jego imię to Tsubasa Ozora.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Hold &lt;rep dribble_hold&gt; while Dribbling in order\nto execute an even faster Dash Dribble.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T193922Z" creationid="PCM" creationdate="20231023T193922Z">
+        <seg>Przytrzymaj &lt;rep dribble_hold&gt; podczas dryblingu,\naby wykonać Dash Dribble.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Holding the button down will fill \nup the Kick Gauge, and the longer you hold it \nthe more powerful the shot will be.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T215603Z" creationid="PCM" creationdate="20231023T215603Z">
+        <seg>Przytrzymanie przycisku spowoduje napełnienie \nWskaźnika Kopnięcia, a im dłużej go przytrzymasz, \ntym mocniejszy będzie strzał.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Huh?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231111T224715Z" creationid="PCM" creationdate="20231111T224715Z">
+        <seg>Co?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>I don't know...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T173039Z" creationid="PCM" creationdate="20231023T173039Z">
+        <seg>Nie mam pojęcia...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>I like that look in your eyes!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T173056Z" creationid="PCM" creationdate="20231023T173056Z">
+        <seg>Podoba mi się to spojrzenie!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>If he wants to play, then please let him.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231111T224750Z" creationid="PCM" creationdate="20231111T224750Z">
+        <seg>Jeśli chce grać, to proszę, pozwól mu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>If you want to pull him from the game today...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231111T224350Z" creationid="PCM" creationdate="20231111T224343Z">
+        <seg>Jeśli chcesz wycofać go z dzisiejszego meczu...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Indeed.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231111T224452Z" creationid="PCM" creationdate="20231111T224452Z">
+        <seg>Istotnie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Is he going to take the shot?!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T202557Z" creationid="PCM" creationdate="20231023T202557Z">
+        <seg>Czy zamierza oddać strzał?!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Is this their chance?!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T203053Z" creationid="PCM" creationdate="20231023T203053Z">
+        <seg>Czy to jest ich szansa?!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>It will\nrecover slowly while moving normally and not\nusing special moves.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T194102Z" creationid="PCM" creationdate="20231023T185857Z">
+        <seg>Będzie powoli\nsię regenerować gdy będziesz poruszać się normalnie i nie\nużywać specjalnych ruchów.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>It's been four years since those two fruitful\nencounters.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T172036Z" creationid="PCM" creationdate="20231023T172036Z">
+        <seg>Od tych dwóch owocnych spotkań minęły cztery\nlata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>It's high noon on the pitch today, folks!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T182946Z" creationid="PCM" creationdate="20231023T182918Z">
+        <seg>Ludzie, dziś na boisku jest samo południe!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>It's\nnot going to impact what he does from here on out.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231111T223711Z" creationid="PCM" creationdate="20231111T223711Z">
+        <seg>Nie będzie to miało wpływu na jego dalsze poczynania.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Just have fun with it!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T173233Z" creationid="PCM" creationdate="20231023T173233Z">
+        <seg>Po prostu dobrze się baw!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Kickoff</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T184033Z" creationid="PCM" creationdate="20231023T184033Z">
+        <seg>Rozpoczęcie meczu (1)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Kickoff &lt;rep ②&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T184143Z" creationid="PCM" creationdate="20231023T184143Z">
+        <seg>Rozpocznij mecz &lt;rep ②&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Let the game begin!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T201224Z" creationid="PCM" creationdate="20231023T201138Z">
+        <seg>Niech rozpocznie się gra!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Let the match begin!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T201255Z" creationid="PCM" creationdate="20231023T201255Z">
+        <seg>Niech rozpocznie się mecz!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Let's do this!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T173017Z" creationid="PCM" creationdate="20231023T173017Z">
+        <seg>Zróbmy to!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Let's go!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T173244Z" creationid="PCM" creationdate="20231023T173244Z">
+        <seg>Idziemy!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Looks like they have good support from the team!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T202652Z" creationid="PCM" creationdate="20231023T202652Z">
+        <seg>Wygląda na to, że mają dobre wsparcie ze strony zespołu!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Looks like they're going all in!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T202527Z" creationid="PCM" creationdate="20231023T202527Z">
+        <seg>Wygląda na to, że idą na całość!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>MOVIE</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T213732Z" creationid="PCM" creationdate="20231023T213732Z">
+        <seg>FILMY</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>NEXT</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231022T192212Z" creationid="PCM" creationdate="20231022T192212Z">
+        <seg>DALEJ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>NEXT MATCH</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T213721Z" creationid="PCM" creationdate="20231023T213721Z">
+        <seg>NASTĘPNY MECZ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Nankatsu MS's midfielder.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T164700Z" creationid="PCM" creationdate="20231023T164700Z">
+        <seg>Pomocnik Nankatsu MS's.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Nerves getting the best of you?\nWe'll be fine.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T173213Z" creationid="PCM" creationdate="20231023T173213Z">
+        <seg>Nerwy biorą górę?\nWszystko będzie dobrze.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>New Hero</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T213628Z" creationid="PCM" creationdate="20231023T213628Z">
+        <seg>Nowy bohater</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Next</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231022T205733Z" creationid="PCM" creationdate="20231022T205733Z">
+        <seg>Dalej</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>No one would bat an eye if he loses once.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231111T223620Z" creationid="PCM" creationdate="20231111T223620Z">
+        <seg>Nikt nie mrugnąłby okiem, gdyby choć raz przegrał.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Now Loading&lt;dot&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231022T191608Z" creationid="PCM" creationdate="20231022T191608Z">
+        <seg>Wczytuję&lt;dot&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Now, THAT could have a huge effect on his career\nas a soccer player.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231111T224028Z" creationid="PCM" creationdate="20231111T224028Z">
+        <seg>TO może mieć ogromny wpływ na jego karierę\n jako piłkarza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>OFFENSE\n TUTORIALS</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231027T094945Z" creationid="PCM" creationdate="20231027T094926Z">
+        <seg>SAMOUCZKI\n ATAKU</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>OPTIONS</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231022T190453Z" creationid="PCM" creationdate="20231022T190453Z">
+        <seg>OPCJE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Okay, let's go!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T173112Z" creationid="PCM" creationdate="20231023T173112Z">
+        <seg>Dobra, idziemy!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>One with the star of Brazilian soccer,\nRoberto Hongo...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T171129Z" creationid="PCM" creationdate="20231023T171129Z">
+        <seg>Jedno z gwiazdą brazylijskiej piłki nożnej,\nRoberto Hongo...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Opportunity is knocking!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T202620Z" creationid="PCM" creationdate="20231023T202620Z">
+        <seg>Jest okazja!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Options</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231022T190429Z" creationid="PCM" creationdate="20231022T190429Z">
+        <seg>Opcje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>PRACTICE</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T184854Z" creationid="PCM" creationdate="20231023T184854Z">
+        <seg>PRAKTYKA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>PRESS &lt;decide&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231111T222414Z" creationid="PCM" creationdate="20231111T222414Z">
+        <seg>Naciśnij &lt;decide&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Page 52...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T184637Z" creationid="PCM" creationdate="20231023T184637Z">
+        <seg>Strona 52...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Page 52?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T184630Z" creationid="PCM" creationdate="20231023T184630Z">
+        <seg>Strona 52?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Page &lt;00&gt;/&lt;00&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T184607Z" creationid="PCM" creationdate="20231023T184607Z">
+        <seg>Strona &lt;00&gt;/&lt;00&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Player 1</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T183411Z" creationid="PCM" creationdate="20231023T183411Z">
+        <seg>Gracz 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Player 2</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T183413Z" creationid="PCM" creationdate="20231023T183413Z">
+        <seg>Gracz 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Player 3</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T183416Z" creationid="PCM" creationdate="20231023T183416Z">
+        <seg>Gracz 3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Player 4</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T183418Z" creationid="PCM" creationdate="20231023T183418Z">
+        <seg>Gracz 4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Press &lt;rep ③&gt; when you have the ball to take \na shot on goal.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T200016Z" creationid="PCM" creationdate="20231023T200016Z">
+        <seg>Naciśnij &lt;rep ③&gt; gdy masz piłkę, aby oddać \nstrzał na bramkę.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Press &lt;rep ⑧&gt; while Dribbling in order to activate \na player's unique Dribble Move.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T195731Z" creationid="PCM" creationdate="20231023T195731Z">
+        <seg>Naciśnij &lt;rep ⑧&gt; podczas Dryblingu, aby aktywować \nunikalny Dribble Move.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Press\n&lt;rep ②&gt; to pass to the highlighted\nTsubasa, and hold &lt;rep shoot_hold&gt;\nto activate a Shooting Move.\n&lt;color F03760&gt;The Kick Gauge must\nbe filled up to activate\na Shooting Move.&lt;/color&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231027T094745Z" creationid="PCM" creationdate="20231023T220801Z">
+        <seg>Naciśnij\n&lt;rep ②&gt;, aby przejść do podświetlonego\nTsubasy, i przytrzymaj &lt;rep shoot_hold&gt;,\nby aktywować Shooting Move.\n&lt;color F03760&gt;Wskaźnik Kopnięcia musi\nbyć napełniony do aktywacji\n Shooting Move.&lt;/color&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Pride of Japan and ace striker,\nKojiro Hyugaaa!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T174838Z" creationid="PCM" creationdate="20231023T174838Z">
+        <seg>Duma Japonii i as wśród napastników\nKojiro Hyugaaa!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>QUIT GAME</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T213752Z" creationid="PCM" creationdate="20231023T213752Z">
+        <seg>WYJŚCIE Z GRY</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Quit the game?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231111T222535Z" creationid="PCM" creationdate="20231111T222535Z">
+        <seg>Wyjść z gry?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Resume EPISODE: TSUBASA?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T200138Z" creationid="PCM" creationdate="20231023T200120Z">
+        <seg>Wznowć EPIZOD: TSUBASA?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Right!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T201156Z" creationid="PCM" creationdate="20231023T201156Z">
+        <seg>Racja!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Rivals since childhood, these two now take the\npitch as teammates, representing all of Japan!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T175614Z" creationid="PCM" creationdate="20231023T175546Z">
+        <seg>Rywalizują ze sobą od dzieciństwa. A teraz wychodzą na boisko\ngrając w jednej drużynie, reprezentując całą Japonię!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>SHOP</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T184831Z" creationid="PCM" creationdate="20231023T184831Z">
+        <seg>SKLEP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>SITUATION\n PRACTICE</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231027T095026Z" creationid="PCM" creationdate="20231027T095026Z">
+        <seg>PRAKTYKA\n SYTUACJI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Shooting Moves can be activated by filling the Kick \nGauge to full while the Spirit Gauge is above a \ncertain amount.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T215958Z" creationid="PCM" creationdate="20231023T215958Z">
+        <seg>Shooting Moves można aktywować poprzez napełnienie Wskaźnika \nKopnięć do pełna, gdy Wskaźnik Ducha znajduje się \nokreślonej wartości.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Shooting Moves vary by player, \nbut they all weaken the Spirit of the opponent's \ngoalkeeper greatly.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T220112Z" creationid="PCM" creationdate="20231023T220112Z">
+        <seg>Shooting Moves różnią się w zależności od gracza, \nale wszystkie znacznie osłabiają Ducha \nbramkarza przeciwnika.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Shooting Tutorials</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231027T095142Z" creationid="PCM" creationdate="20231027T095142Z">
+        <seg>Samouczki strzałów</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Shop</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231022T190433Z" creationid="PCM" creationdate="20231022T190433Z">
+        <seg>Sklep</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Single Player</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231027T094904Z" creationid="PCM" creationdate="20231027T094904Z">
+        <seg>Gra dla jednego gracza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>So I'm asking you to focus on his potential for\nthe future... as his mother.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231111T224315Z" creationid="PCM" creationdate="20231111T224315Z">
+        <seg>Więc proszę cię, byś skupiła się na jego potencjale na przyszłość...\njako jego matka.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Something along the lines of "I'm playing whether\nyou want me to or not."</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231111T224632Z" creationid="PCM" creationdate="20231111T224632Z">
+        <seg>Coś w stylu "Gram, czy tego chcesz, czy nie".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Spirit</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T190105Z" creationid="PCM" creationdate="20231023T190105Z">
+        <seg>Duch</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Spirit Cost</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T190037Z" creationid="PCM" creationdate="20231023T190037Z">
+        <seg>Koszt ducha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Spirit is needed to perform special actions.\nEach action consumes the Spirit Gauge.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T185259Z" creationid="PCM" creationdate="20231023T185259Z">
+        <seg>Duch jest potrzebny do wykonywania specjalnych akcji.\nKażda akcja zużywa Wskaźnik Ducha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Spirit?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T185957Z" creationid="PCM" creationdate="20231023T185957Z">
+        <seg>Duch?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Start EPISODE 1: Otomo MS?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T200151Z" creationid="PCM" creationdate="20231023T200151Z">
+        <seg>Rozpocząć EPIZOD 1: Otomo MS?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Start EPISODE 2: Azumaichi MS?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T200155Z" creationid="PCM" creationdate="20231023T200155Z">
+        <seg>Rozpocząć EPIZOD 2: Azumaichi MS?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Start EPISODE 3: Hanawa MS?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T200159Z" creationid="PCM" creationdate="20231023T200159Z">
+        <seg>Rozpocząć EPIZOD 3: Hanawa MS?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Start EPISODE 4: Hirado MS?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T200203Z" creationid="PCM" creationdate="20231023T200203Z">
+        <seg>Rozpocząć EPIZOD 4: Hirado MS?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Start EPISODE 5: Furano MS?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T200208Z" creationid="PCM" creationdate="20231023T200208Z">
+        <seg>Rozpocząć EPIZOD 5: Furano MS?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Start EPISODE 6: Toho Academy?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T200211Z" creationid="PCM" creationdate="20231023T200211Z">
+        <seg>Rozpocząć EPIZOD 6: Toho Academy?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Start EPISODE: TSUBASA?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T200131Z" creationid="PCM" creationdate="20231023T200105Z">
+        <seg>Rozpocząć EPIZOD: TSUBASA?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Start the match by pressing &lt;rep ②&gt; to kick\nthe ball from midfield.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T183952Z" creationid="PCM" creationdate="20231023T183952Z">
+        <seg>Rozpocznij mecz naciskając &lt;rep ②&gt; aby kopnąć\npiłkę ze środka pola.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Start the match.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T183028Z" creationid="PCM" creationdate="20231023T183028Z">
+        <seg>Rozpocznij mecz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Start the match?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T183140Z" creationid="PCM" creationdate="20231023T183140Z">
+        <seg>Rozpocząć mecz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Steal ball with\nDash Tackle &lt;rep dribble_hold&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T200328Z" creationid="PCM" creationdate="20231023T200328Z">
+        <seg>Przejmij piłkę używając\nDash Tackle &lt;rep dribble_hold&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Steal ball with\nDash Tackle.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T200343Z" creationid="PCM" creationdate="20231023T200343Z">
+        <seg>Przejmij piłkę używając\nDash Tackle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Steal ball with\na Tackle Move.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T200351Z" creationid="PCM" creationdate="20231023T200351Z">
+        <seg>Przejmij piłkę używając\na Tackle Move.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Steal the ball\nwith a Tackle Move &lt;rep ⑧&gt;/&lt;rep ①&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T185150Z" creationid="PCM" creationdate="20231023T185150Z">
+        <seg>Przejmij piłkę\nza pomocą ruchu ataku &lt;rep ⑧&gt;/&lt;rep ①&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>THE JOURNEY</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231022T190517Z" creationid="PCM" creationdate="20231022T190517Z">
+        <seg>PODRÓŻ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Take the ball to\nthe opponent's goal &lt;rep ⑲&gt;/&lt;rep ②&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T184937Z" creationid="PCM" creationdate="20231023T184937Z">
+        <seg>Zabierz piłkę do bramki przeciwnika &lt;rep ⑲&gt;/&lt;rep ②&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Teammates are blue, opponents\nare red, and the ball is yellow.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T220354Z" creationid="PCM" creationdate="20231023T220354Z">
+        <seg>Koledzy z drużyny są niebiescy, przeciwnicy \nczerwoni, a piłka jest żółta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>The Kick Gauge represents the power of a\nthrough pass, long pass, or shot.\nWith each of these actions, the longer\nyou hold down the button the greater\nthe power of the kick and the speed of\nthe ball.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T215039Z" creationid="PCM" creationdate="20231023T215039Z">
+        <seg>Wskaźnik kopnięcia reprezentuje siłę\npodania, długiego podania lub strzału.\nW przypadku każdej z tych akcji im dłużej\nprzytrzymasz przycisk, tym większa będzie siła kopnięcia\ni prędkość piłki.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>The SGGK (Super Great Goalkeeper),\nGenzo Wakabayashi!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T175119Z" creationid="PCM" creationdate="20231023T175119Z">
+        <seg>SWB (Super Wspaniały Bramkarz),\nGenzo Wakabayashi!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>The boy was raised with a soccer ball\nnever far from his feet.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T170731Z" creationid="PCM" creationdate="20231023T170731Z">
+        <seg>Chłopiec wychowywał się z piłką nożną\nzawsze blisko jego stóp.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>The finals of the first "Junior Youth World\nChallenge," held in America, Japan vs. Germany!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T174456Z" creationid="PCM" creationdate="20231023T174456Z">
+        <seg>Finał pierwszego "Junior Youth World\nChallenge," odbywa się w Ameryce, Japonia kontra Niemcy!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>The good fortune of meeting these two became the\nrobust roots of his passionate life of soccer.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T171708Z" creationid="PCM" creationdate="20231023T171708Z">
+        <seg>Spotkanie tej dwójki,\nstało się solidnymi korzeniami jego pasji do piłki nożnej.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>The long pass makes it!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T200914Z" creationid="PCM" creationdate="20231023T200914Z">
+        <seg>Długie podanie!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>The lower middle of the screen shows the\nmini-map.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T220239Z" creationid="PCM" creationdate="20231023T220239Z">
+        <seg>W dolnej środkowej części ekranu wyświetlana jest\nmini-mapa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>The match is starting soon.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T172926Z" creationid="PCM" creationdate="20231023T172926Z">
+        <seg>Zaraz zacznie się mecz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Their leader!\nOur captain!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T175902Z" creationid="PCM" creationdate="20231023T175902Z">
+        <seg>Ich przywódca!\nNasz kapitan!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Then please let him play.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231111T224709Z" creationid="PCM" creationdate="20231111T224709Z">
+        <seg>Więc pozwól mu grać.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>They're deep in enemy territory!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T203115Z" creationid="PCM" creationdate="20231023T203115Z">
+        <seg>Są głęboko na terytorium wroga!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>They're passing back and forth!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T202245Z" creationid="PCM" creationdate="20231023T202237Z">
+        <seg>Przechodzą tam i z powrotem!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>They're right in front of the goal!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T202542Z" creationid="PCM" creationdate="20231023T202542Z">
+        <seg>Są tuż przed bramką!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>They're tightening up around the goal!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T202737Z" creationid="PCM" creationdate="20231023T202737Z">
+        <seg>Zacieśniają się wokół bramki!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>They've done it!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T182925Z" creationid="PCM" creationdate="20231023T182925Z">
+        <seg>Zrobili to!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Tutorial</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T184814Z" creationid="PCM" creationdate="20231023T184814Z">
+        <seg>Samouczek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Tutorial Challenges</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T184807Z" creationid="PCM" creationdate="20231023T184807Z">
+        <seg>Wyzwania samouczka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Waiting for Player</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T183423Z" creationid="PCM" creationdate="20231023T183423Z">
+        <seg>Czekanie na gracza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>We can expect a fierce battle start to finish!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T201152Z" creationid="PCM" creationdate="20231023T201152Z">
+        <seg>Możemy spodziewać się zaciętej bitwy od początku do końca!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Well, I can say a soccer player like\nthat you only see once in a generation.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231111T222810Z" creationid="PCM" creationdate="20231111T222810Z">
+        <seg>Cóż, mogę powiedzieć, że takiego\npiłkarza widzi się tylko raz na pokolenie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>What can I do for you, Doctor?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231111T222628Z" creationid="PCM" creationdate="20231111T222628Z">
+        <seg>Co mogę dla ciebie zrobić, doktorze?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Which of these two teams will earn the right\nto call themselves the world champions?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T174707Z" creationid="PCM" creationdate="20231023T174707Z">
+        <seg>Która z tych dwóch drużyn zdobędzie prawo\ndo nazywania się mistrzami świata?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Whoa!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T201045Z" creationid="PCM" creationdate="20231023T201045Z">
+        <seg>Łoł!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Will this be their big moment?!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T202432Z" creationid="PCM" creationdate="20231023T202432Z">
+        <seg>Czy to będzie ich wielka chwila?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Win by scoring more points than your opponent.\nDribble with &lt;rep ⑲&gt; and Short Pass with &lt;rep ②&gt;\n to break through the enemy's formation.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T184542Z" creationid="PCM" creationdate="20231023T184542Z">
+        <seg>Wygraj, zdobywając więcej punktów niż twój przeciwnik.\nDrybluj za pomocą &lt;rep ⑲&gt; i krótkiego podania za pomocą &lt;rep ②&gt;\n aby przebić się przez formację przeciwnika.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Won Nationals twice\nin a row with his ability to assimilate moves.\nForever a soccer kid.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T165409Z" creationid="PCM" creationdate="20231023T165409Z">
+        <seg>Dwukrotnie z rzędu\nwygrał zawody krajowe dzięki swojej umiejętności przyswajania ruchów.\nNa zawsze dzieciak piłki nożnej.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Yeah!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T172948Z" creationid="PCM" creationdate="20231023T172948Z">
+        <seg>Tak!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>You have not chosen a faction.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T183441Z" creationid="PCM" creationdate="20231023T183441Z">
+        <seg>Nie wybrałeś frakcji.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Youth\nTournament was canceled, plans for this new\ntournament went into motion.)</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T180356Z" creationid="PCM" creationdate="20231023T180356Z">
+        <seg>Juniorów\nwe Francji, rozpoczęto prace\nnad nowym turniejem).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>and the other with the goalkeeping prodigy,\nGenzo Wakabayashi.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T171211Z" creationid="PCM" creationdate="20231023T171211Z">
+        <seg>a drugie z cudownym bramkarzem,\nGenzo Wakabayashim.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>he finds himself ready to spread his wings\nand greet the wide world.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231023T172150Z" creationid="PCM" creationdate="20231023T172150Z">
+        <seg>jest gotowy, by rozwinąć skrzydła\ni powitać szeroki świat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>“Episode: Tsubasa" is now playable.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231022T205709Z" creationid="PCM" creationdate="20231022T205709Z">
+        <seg>“Epizod: Tsubasa" jest teraz dostępny.</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>

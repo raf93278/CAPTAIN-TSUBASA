@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en-GB"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;cancel&gt;Back</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231022T192134Z" creationid="PCM" creationdate="20231022T192134Z">
+        <seg>&lt;cancel&gt;Cofnij</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;cancel&gt;Back &lt;rep ⑯&gt;Select</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231022T192103Z" creationid="PCM" creationdate="20231022T192020Z">
+        <seg>&lt;cancel&gt;Cofnij &lt;rep ⑯&gt;Select</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;cancel&gt;Exit</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231022T191953Z" creationid="PCM" creationdate="20231022T191953Z">
+        <seg>&lt;cancel&gt;Wyjście</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;decide&gt;Confirm</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231022T192223Z" creationid="PCM" creationdate="20231022T192223Z">
+        <seg>&lt;decide&gt;Potwierdź</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;decide&gt;Confirm/Cancel &lt;cancel&gt;Back &lt;rep ③&gt;Group Info &lt;rep ⑯&gt;Select</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231022T192117Z" creationid="PCM" creationdate="20231022T192057Z">
+        <seg>&lt;decide&gt;Potwierdź/Anuluj &lt;cancel&gt;Cofnij &lt;rep ③&gt;Group Info &lt;rep ⑯&gt;Select</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;decide&gt;Next</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231022T192126Z" creationid="PCM" creationdate="20231022T192126Z">
+        <seg>&lt;decide&gt;Dalej</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;rep ⑭&gt;Next</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231022T192002Z" creationid="PCM" creationdate="20231022T192002Z">
+        <seg>&lt;rep ⑭&gt;Dalej</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;rep ⑮&gt;Back &lt;cancel&gt;Exit</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231022T192151Z" creationid="PCM" creationdate="20231022T192151Z">
+        <seg>&lt;rep ⑮&gt;Cofnij &lt;cancel&gt;Wyjście</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>BACK</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231022T192207Z" creationid="PCM" creationdate="20231022T192207Z">
+        <seg>COFNIJ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>EXIT</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231022T192310Z" creationid="PCM" creationdate="20231022T192310Z">
+        <seg>WYJŚCIE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Exit</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231022T192248Z" creationid="PCM" creationdate="20231022T192248Z">
+        <seg>Wyjście</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Exit the game?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231022T192330Z" creationid="PCM" creationdate="20231022T192330Z">
+        <seg>Wyjść z gry?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>NEXT</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231022T192212Z" creationid="PCM" creationdate="20231022T192212Z">
+        <seg>DALEJ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Now Loading&lt;dot&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231022T191608Z" creationid="PCM" creationdate="20231022T191608Z">
+        <seg>Wczytuję&lt;dot&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>OPTIONS</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231022T190453Z" creationid="PCM" creationdate="20231022T190453Z">
+        <seg>OPCJE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Options</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231022T190429Z" creationid="PCM" creationdate="20231022T190429Z">
+        <seg>Opcje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Shop</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231022T190433Z" creationid="PCM" creationdate="20231022T190433Z">
+        <seg>Sklep</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>THE JOURNEY</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231022T190517Z" creationid="PCM" creationdate="20231022T190517Z">
+        <seg>PODRÓŻ</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>

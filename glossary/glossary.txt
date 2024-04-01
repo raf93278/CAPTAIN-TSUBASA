@@ -1,0 +1,12 @@
+# Glossary in tab-separated format -*- coding: utf-8 -*-
+striker	napastnik
+Goalkeeper	bramkarz
+midfield	środek pola
+midfield	pomocnik
+Short Pass	krótkie podanie
+Tackle Move	ruch ataku
+Spirit Gauge	Wskaźnik Ducha
+Spirit	Duch
+Kick Gauge	Wskaźnik kopnięcia
+Kick Gauge	Wskaźnik Kopnięcia
+through pass	podanie

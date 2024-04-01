@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en-GB"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;cancel&gt;Back</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231022T192134Z" creationid="PCM" creationdate="20231022T192134Z">
+        <seg>&lt;cancel&gt;Cofnij</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;cancel&gt;Back &lt;rep ③&gt;Restore Defaults &lt;rep ⑰&gt;Change Settings</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231022T205841Z" creationid="PCM" creationdate="20231022T205841Z">
+        <seg>&lt;cancel&gt;Cofnij &lt;rep ③&gt;Restore Defaults &lt;rep ⑰&gt;Change Settings</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;cancel&gt;Back &lt;rep ⑯&gt;Select</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231022T192103Z" creationid="PCM" creationdate="20231022T192020Z">
+        <seg>&lt;cancel&gt;Cofnij &lt;rep ⑯&gt;Select</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;cancel&gt;Exit</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231022T191953Z" creationid="PCM" creationdate="20231022T191953Z">
+        <seg>&lt;cancel&gt;Wyjście</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;decide&gt;/&lt;cancel&gt;Back &lt;rep ⑯&gt;Scroll</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231022T205814Z" creationid="PCM" creationdate="20231022T205814Z">
+        <seg>&lt;decide&gt;/&lt;cancel&gt;Cofnij &lt;rep ⑯&gt;Scroll</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;decide&gt;/&lt;cancel&gt;Back &lt;rep ⑰&gt;Select</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231022T205809Z" creationid="PCM" creationdate="20231022T205809Z">
+        <seg>&lt;decide&gt;/&lt;cancel&gt;Cofnij &lt;rep ⑰&gt;Select</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;decide&gt;Claim All Rewards &lt;cancel&gt;Back &lt;rep ⑤&gt;/&lt;rep ⑥&gt;Change Category</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231022T205824Z" creationid="PCM" creationdate="20231022T205824Z">
+        <seg>&lt;decide&gt;Claim All Rewards &lt;cancel&gt;Cofnij &lt;rep ⑤&gt;/&lt;rep ⑥&gt;Change Category</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;decide&gt;Confirm</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231022T192223Z" creationid="PCM" creationdate="20231022T192223Z">
+        <seg>&lt;decide&gt;Potwierdź</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;decide&gt;Confirm &lt;cancel&gt;Back</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231022T205602Z" creationid="PCM" creationdate="20231022T205602Z">
+        <seg>&lt;decide&gt;Potwierdź &lt;cancel&gt;Cofnij</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;decide&gt;Confirm &lt;cancel&gt;Back &lt;rep other_touch&gt;Show Game Guide &lt;rep ⑤&gt;/&lt;rep ⑥&gt;Change Category</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231022T205901Z" creationid="PCM" creationdate="20231022T205901Z">
+        <seg>&lt;decide&gt;Confirm &lt;cancel&gt;Cofnij &lt;rep other_touch&gt;Show Game Guide &lt;rep ⑤&gt;/&lt;rep ⑥&gt;Change Category</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;decide&gt;Confirm &lt;cancel&gt;Back &lt;rep ③&gt;Claim Login Bonus &lt;rep ⑯&gt;Select</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231022T205828Z" creationid="PCM" creationdate="20231022T205828Z">
+        <seg>&lt;decide&gt;Confirm &lt;cancel&gt;Cofnij &lt;rep ③&gt;Claim Login Bonus &lt;rep ⑯&gt;Select</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;decide&gt;Confirm &lt;cancel&gt;Back &lt;rep ③&gt;Show Event Reward &lt;rep ⑰&gt;Select</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231022T205850Z" creationid="PCM" creationdate="20231022T205850Z">
+        <seg>&lt;decide&gt;Confirm &lt;cancel&gt;Cofnij &lt;rep ③&gt;Show Event Reward &lt;rep ⑰&gt;Select</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;decide&gt;Confirm &lt;cancel&gt;Back &lt;rep ③&gt;Switch Team &lt;rep ⑤&gt;/&lt;rep ⑥&gt;Change Page &lt;rep ⑰&gt;Skip Displayed Item &lt;rep ⑯&gt;Select</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231022T210010Z" creationid="PCM" creationdate="20231022T210010Z">
+        <seg>&lt;decide&gt;Confirm &lt;cancel&gt;Cofnij &lt;rep ③&gt;Switch Team &lt;rep ⑤&gt;/&lt;rep ⑥&gt;Change Page &lt;rep ⑰&gt;Skip Displayed Item &lt;rep ⑯&gt;Select</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;decide&gt;Confirm &lt;cancel&gt;Back &lt;rep ③&gt;Switch Team &lt;rep ⑰&gt;Skip Displayed Item &lt;rep ⑯&gt;Select</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231022T205917Z" creationid="PCM" creationdate="20231022T205917Z">
+        <seg>&lt;decide&gt;Confirm &lt;cancel&gt;Cofnij &lt;rep ③&gt;Switch Team &lt;rep ⑰&gt;Skip Displayed Item &lt;rep ⑯&gt;Select</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;decide&gt;Confirm &lt;cancel&gt;Back &lt;rep ④&gt;Check Set Item &lt;rep ⑰&gt;/&lt;rep ⑯&gt;Select</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231022T205820Z" creationid="PCM" creationdate="20231022T205820Z">
+        <seg>&lt;decide&gt;Confirm &lt;cancel&gt;Cofnij &lt;rep ④&gt;Check Set Item &lt;rep ⑰&gt;/&lt;rep ⑯&gt;Select</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;decide&gt;Confirm &lt;cancel&gt;Back &lt;rep ④&gt;Show Unlock Conditions &lt;rep ⑰&gt;/&lt;rep ⑯&gt;Select</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231022T205836Z" creationid="PCM" creationdate="20231022T205836Z">
+        <seg>&lt;decide&gt;Confirm &lt;cancel&gt;Cofnij &lt;rep ④&gt;Show Unlock Conditions &lt;rep ⑰&gt;/&lt;rep ⑯&gt;Select</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;decide&gt;Confirm &lt;cancel&gt;Back &lt;rep ⑤&gt;/&lt;rep ⑥&gt;Change Category</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231022T205853Z" creationid="PCM" creationdate="20231022T205853Z">
+        <seg>&lt;decide&gt;Confirm &lt;cancel&gt;Cofnij &lt;rep ⑤&gt;/&lt;rep ⑥&gt;Change Category</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;decide&gt;Confirm &lt;cancel&gt;Back &lt;rep ⑤&gt;/&lt;rep ⑥&gt;Change Category &lt;rep ③&gt;Adjust Position &lt;rep ④&gt;Move Settings</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231022T205535Z" creationid="PCM" creationdate="20231022T205535Z">
+        <seg>&lt;decide&gt;Potwierdź &lt;cancel&gt;Back &lt;rep ⑤&gt;/&lt;rep ⑥&gt;Change Category &lt;rep ③&gt;Adjust Position &lt;rep ④&gt;Move Settings</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;decide&gt;Confirm &lt;cancel&gt;Back &lt;rep ⑤&gt;/&lt;rep ⑥&gt;Change Category &lt;rep ⑰&gt;/&lt;rep ⑯&gt;Select</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231022T205831Z" creationid="PCM" creationdate="20231022T205831Z">
+        <seg>&lt;decide&gt;Confirm &lt;cancel&gt;Cofnij &lt;rep ⑤&gt;/&lt;rep ⑥&gt;Change Category &lt;rep ⑰&gt;/&lt;rep ⑯&gt;Select</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;decide&gt;Confirm &lt;cancel&gt;Back &lt;rep ⑳&gt;Rotate &lt;rep ⑰&gt;Change Page &lt;rep ⑯&gt;Select</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231022T205846Z" creationid="PCM" creationdate="20231022T205846Z">
+        <seg>&lt;decide&gt;Confirm &lt;cancel&gt;Cofnij &lt;rep ⑳&gt;Rotate &lt;rep ⑰&gt;Change Page &lt;rep ⑯&gt;Select</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;decide&gt;Confirm &lt;rep ③&gt;Set Language</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231022T205552Z" creationid="PCM" creationdate="20231022T205552Z">
+        <seg>&lt;decide&gt;Potwierdź &lt;rep ③&gt;Wybierz język</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;decide&gt;Confirm/Cancel &lt;cancel&gt;Back &lt;rep ③&gt;Group Info &lt;rep ⑯&gt;Select</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231022T192117Z" creationid="PCM" creationdate="20231022T192057Z">
+        <seg>&lt;decide&gt;Potwierdź/Anuluj &lt;cancel&gt;Cofnij &lt;rep ③&gt;Group Info &lt;rep ⑯&gt;Select</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;decide&gt;Next</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231022T192126Z" creationid="PCM" creationdate="20231022T192126Z">
+        <seg>&lt;decide&gt;Dalej</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;decide&gt;Show Player Data &lt;cancel&gt;Back &lt;rep other_touch&gt;Show Game Guide &lt;scale 120%&gt;&lt;rep ⑪&gt;&lt;/scale&gt;Exit Without Registering Player &lt;rep ⑯&gt;Select</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231022T205912Z" creationid="PCM" creationdate="20231022T205912Z">
+        <seg>&lt;decide&gt;Show Player Data &lt;cancel&gt;Cofnij &lt;rep other_touch&gt;Show Game Guide &lt;scale 120%&gt;&lt;rep ⑪&gt;&lt;/scale&gt;Exit Without Registering Player &lt;rep ⑯&gt;Select</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;decide&gt;Show Player Data &lt;cancel&gt;Back &lt;rep other_touch&gt;Show Game Guide &lt;scale 120%&gt;&lt;rep ⑪&gt;&lt;/scale&gt;Finish Player Registration &lt;rep ⑯&gt;Select</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231022T205906Z" creationid="PCM" creationdate="20231022T205906Z">
+        <seg>&lt;decide&gt;Show Player Data &lt;cancel&gt;Cofnij &lt;rep other_touch&gt;Show Game Guide &lt;scale 120%&gt;&lt;rep ⑪&gt;&lt;/scale&gt;Finish Player Registration &lt;rep ⑯&gt;Select</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;rep ⑭&gt;Next</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231022T192002Z" creationid="PCM" creationdate="20231022T192002Z">
+        <seg>&lt;rep ⑭&gt;Dalej</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;rep ⑮&gt;Back &lt;cancel&gt;Exit</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231022T192151Z" creationid="PCM" creationdate="20231022T192151Z">
+        <seg>&lt;rep ⑮&gt;Cofnij &lt;cancel&gt;Wyjście</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>BACK</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231022T192207Z" creationid="PCM" creationdate="20231022T192207Z">
+        <seg>COFNIJ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Background: Azumaichi MS\n \nWallpapers you can use on the\nmenu screen.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231022T210048Z" creationid="PCM" creationdate="20231022T210048Z">
+        <seg>Tło: Azumaichi MS\n \nWallpapers you can use on the\nmenu screen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Background: Furano MS\n \nWallpapers you can use on the\nmenu screen.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231022T210035Z" creationid="PCM" creationdate="20231022T210035Z">
+        <seg>Tło: Furano MS\n \nWallpapers you can use on the\nmenu screen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Background: Hanawa MS\n \nWallpapers you can use on the\nmenu screen.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231022T210045Z" creationid="PCM" creationdate="20231022T210045Z">
+        <seg>Tło: Hanawa MS\n \nWallpapers you can use on the\nmenu screen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Background: Hirado MS\n \nWallpapers you can use on the\nmenu screen.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231022T210042Z" creationid="PCM" creationdate="20231022T210042Z">
+        <seg>Tło: Hirado MS\n \nWallpapers you can use on the\nmenu screen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Background: Meiwa Higashi MS\n \nWallpapers you can use on the\nmenu screen.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231022T210053Z" creationid="PCM" creationdate="20231022T210053Z">
+        <seg>Tło: Meiwa Higashi MS\n \nWallpapers you can use on the\nmenu screen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Background: Minamiuwa MS\n \nWallpapers you can use on the\nmenu screen.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231022T210057Z" creationid="PCM" creationdate="20231022T210057Z">
+        <seg>Tło: Minamiuwa MS\n \nWallpapers you can use on the\nmenu screen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Background: Musashi MS\n \nWallpapers you can use on the\nmenu screen.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231022T210039Z" creationid="PCM" creationdate="20231022T210039Z">
+        <seg>Tło: Musashi MS\n \nWallpapers you can use on the\nmenu screen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Background: Nankatsu MS\n \nWallpapers you can use on the\nmenu screen.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231022T210022Z" creationid="PCM" creationdate="20231022T210022Z">
+        <seg>Tło: Nankatsu MS\n \nWallpapers you can use on the\nmenu screen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Background: Otomo MS\n \nWallpapers you can use on the\nmenu screen.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231022T210050Z" creationid="PCM" creationdate="20231022T210050Z">
+        <seg>Tło: Otomo MS\n \nWallpapers you can use on the\nmenu screen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Background: Toho Academy\n \nWallpapers you can use on the\nmenu screen.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231022T210032Z" creationid="PCM" creationdate="20231022T210032Z">
+        <seg>Tło: Toho Academy\n \nWallpapers you can use on the\nmenu screen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>EXIT</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231022T192310Z" creationid="PCM" creationdate="20231022T192310Z">
+        <seg>WYJŚCIE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Exit</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231022T192248Z" creationid="PCM" creationdate="20231022T192248Z">
+        <seg>Wyjście</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Exit the game?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231022T192330Z" creationid="PCM" creationdate="20231022T192330Z">
+        <seg>Wyjść z gry?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>NEXT</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231022T192212Z" creationid="PCM" creationdate="20231022T192212Z">
+        <seg>DALEJ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Next</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231022T205733Z" creationid="PCM" creationdate="20231022T205733Z">
+        <seg>Dalej</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Now Loading&lt;dot&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231022T191608Z" creationid="PCM" creationdate="20231022T191608Z">
+        <seg>Wczytuję&lt;dot&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>OPTIONS</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231022T190453Z" creationid="PCM" creationdate="20231022T190453Z">
+        <seg>OPCJE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Options</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231022T190429Z" creationid="PCM" creationdate="20231022T190429Z">
+        <seg>Opcje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Shop</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231022T190433Z" creationid="PCM" creationdate="20231022T190433Z">
+        <seg>Sklep</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>THE JOURNEY</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231022T190517Z" creationid="PCM" creationdate="20231022T190517Z">
+        <seg>PODRÓŻ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>“Episode: Tsubasa" is now playable.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="PCM" changedate="20231022T205709Z" creationid="PCM" creationdate="20231022T205709Z">
+        <seg>“Epizod: Tsubasa" jest teraz dostępny.</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
