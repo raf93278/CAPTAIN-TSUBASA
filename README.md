@@ -19,7 +19,7 @@ Aby praca poszła sprawnie szukam ludzi, którzy:
 2. interesują się piłkę nożną
 3. jeśli nie znają angielskiego to mogą się go tu poduczyć.
 4. Testerów. Spolszczenie będzie wymagało dużo grania.
-5. Technika, kóry ogarnie polską czcionkę, gra zamiast ą,ć,ł,ż, daje gwaizdkę
+5. Technika, kóry ogarnie polską czcionkę, gra zamiast ą,ć,ł,ż, daje gwiazdkę
 
 Jeśli ktoś słabo zna angielski, korzysta z google translatora to może się zgłosić do tłumaczenia menu, podmenu, itd. To też dużo.
 
